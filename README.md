@@ -99,7 +99,7 @@ vagrant up
 
 ## Assumptions
 
-* I assumed that **Ubuntu, Apache, MySQL, and PHP** would be suitable for this project.
+* I assumed that **Ubuntu, MySQL, and PHP** would be suitable for this project.
 * I assumed **VirtualBox** would be used with Vagrant because it was already installed.
 
 ## Errors / Problems

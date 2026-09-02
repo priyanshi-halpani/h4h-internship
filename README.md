@@ -78,8 +78,8 @@ http://localhost:8080
   * `db.php`
   * `index.php`
   * `edit.php`
-
-* I checked the website and confirmed that the **CRUD functions were working**.
+* I checked the website to make sure that all the CRUD (Create, Read, Update, Delete) functions were working properly. I tested adding new records, viewing the existing records, editing the records, and deleting records.
+* All the operations were working correctly, and the changes were properly reflected in the database and on the website.
 
 ## Final Check
 
